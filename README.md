@@ -11,7 +11,7 @@ else:
         print(f"el numero {num}es par.")
     else:
         print(f"el numero {num} es inpar.")
-        <img width="557" alt="image" src="https://github.com/user-attachments/assets/d390b76a-42fb-4bf3-8144-de41d772e648">
-        <img width="416" alt="image" src="https://github.com/user-attachments/assets/1cf993c5-2ad4-4748-a1dd-2775918596c3">
+    <img width="557" alt="image" src="https://github.com/user-attachments/assets/d390b76a-42fb-4bf3-8144-de41d772e648">
+     <img width="416" alt="image" src="https://github.com/user-attachments/assets/1cf993c5-2ad4-4748-a1dd-2775918596c3">
 
 
